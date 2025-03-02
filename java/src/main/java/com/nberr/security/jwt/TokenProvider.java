@@ -1,4 +1,4 @@
-package com.techelevator.security.jwt;
+package com.nberr.security.jwt;
 
 import io.jsonwebtoken.*;
 import io.jsonwebtoken.io.Decoders;

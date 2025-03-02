@@ -1,7 +1,7 @@
-package com.techelevator.dao;
+package com.nberr.dao;
 
-import com.techelevator.model.RegisterUserDto;
-import com.techelevator.model.User;
+import com.nberr.model.RegisterUserDto;
+import com.nberr.model.User;
 
 import java.util.List;
 

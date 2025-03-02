@@ -1,8 +1,8 @@
-package com.techelevator.security;
+package com.nberr.security;
 
-import com.techelevator.model.Authority;
-import com.techelevator.model.User;
-import com.techelevator.dao.UserDao;
+import com.nberr.model.Authority;
+import com.nberr.model.User;
+import com.nberr.dao.UserDao;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.security.core.GrantedAuthority;

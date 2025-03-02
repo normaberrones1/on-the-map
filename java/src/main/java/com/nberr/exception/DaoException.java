@@ -1,4 +1,4 @@
-package com.techelevator.exception;
+package com.nberr.exception;
 
 public class DaoException extends RuntimeException {
     public DaoException() {

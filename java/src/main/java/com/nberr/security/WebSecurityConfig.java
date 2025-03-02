@@ -1,7 +1,7 @@
-package com.techelevator.security;
+package com.nberr.security;
 
-import com.techelevator.security.jwt.JWTCustomDSL;
-import com.techelevator.security.jwt.TokenProvider;
+import com.nberr.security.jwt.JWTCustomDSL;
+import com.nberr.security.jwt.TokenProvider;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.http.HttpMethod;

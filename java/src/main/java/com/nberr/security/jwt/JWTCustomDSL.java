@@ -1,4 +1,4 @@
-package com.techelevator.security.jwt;
+package com.nberr.security.jwt;
 
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;
 import org.springframework.security.config.annotation.web.configurers.AbstractHttpConfigurer;
