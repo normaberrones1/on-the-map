@@ -25,6 +25,10 @@ public class Trips {
         this.savings = savings;
     }
 
+    public Trips() {
+
+    }
+
     public Long getId() {
         return id;
     }
